@@ -2,19 +2,6 @@
 
 This is a program that takes a raw genetic data file (provided by [23andMe](https://www.23andme.com/)) and gathers health information from [SNPedia](https://www.snpedia.com/) relevant to your genome.
 
-
-## Installation
-A minimum of Python 3.7 is recommended for maximum compatibility.
-
-Use the package manager  [pip](https://pip.pypa.io/en/stable/)  to install this program's dependencies:
-
-```bash
-pip install Pandas
-pip install PySide2
-pip install BS4
-pip install Requests
-```
-
 ## Usage
 
 **Getting Started:**
